@@ -1,0 +1,54 @@
+@media only screen and (max-width: 600px;){
+    .main-nav{
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
+
+body{
+    margin: auto 0;
+}
+
+.green{
+    background-color: blue;
+}
+
+.main-nav{
+    display: flex;
+    list-style: none;
+    font-size: 0.5cm;
+    margin: 0;
+}
+li{
+    padding: 20px;
+}
+a{
+    color: white;
+}
+.push{
+    margin-left: auto;
+}
+.top{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container{
+    background-color: turquoise;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: xx-large;
+}
+.footer{
+    text-align: center;
+    font-size: large;
+}

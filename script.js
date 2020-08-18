@@ -6,4 +6,3 @@ do{
 }while (name === '');
 alert(`Hi,`+ name);
 
-prompt(`Wowoow!!`);
