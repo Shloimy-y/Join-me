@@ -1,19 +1,19 @@
 {
-  "name": "join-me",
-  "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Shloimy-y",
+  "bugs": {
+    "url": "https://github.com/Shloimy-y/Join-me/issues"
   },
+  "description": "",
+  "homepage": "https://github.com/Shloimy-y/Join-me#readme",
+  "license": "ISC",
+  "main": "script.js",
+  "name": "join-me",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shloimy-y/Join-me.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Shloimy-y/Join-me/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/Shloimy-y/Join-me#readme"
+  "version": "1.0.0"
 }
